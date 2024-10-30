@@ -1,5 +1,5 @@
 feature:HU02: Construcción de rutinas saludables
-Como estudiante regular, quiero sincronizar mi calendario académico con la plataforma para planificar mis actividades y gestionar mejor el estrés relacionado con los exámenes y las tareas.
+Como estudiante a distancia, quiero recibir sugerencias de rutinas diarias que me ayuden a mantener un balance entre el estudio y mi vida personal, para mejorar mi bienestar emocional.
 Scenario: Generar una rutina con tiempos de estudio, descanso y recreación
     Given el estudiante completa su perfil y selecciona su horario de estudio
     And indica su nivel de carga emocional
